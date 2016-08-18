@@ -27,5 +27,10 @@
     "solid": true,
     "length": 60,
     "message": "CSC326 prelab"
+  },
+  "1471485694": {
+    "solid": true,
+    "length": 30,
+    "message": "Adding progressbar to TaskLights"
   }
 }
