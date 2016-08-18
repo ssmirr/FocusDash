@@ -32,5 +32,10 @@
     "solid": true,
     "length": 30,
     "message": "Adding progressbar to TaskLights"
+  },
+  "1471487377": {
+    "solid": true,
+    "length": 2,
+    "message": "Testing progressbar"
   }
 }
