@@ -61,5 +61,10 @@
   "1474930783": {
     "pomodoro": true,
     "message": "csc246 - hw4"
+  },
+  "1475766880": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
