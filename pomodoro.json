@@ -66,5 +66,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "no goal specified"
+  },
+  "1475766915": {
+    "solid": true,
+    "length": 2,
+    "message": "test"
   }
 }
