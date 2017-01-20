@@ -71,5 +71,10 @@
     "solid": true,
     "length": 2,
     "message": "test"
+  },
+  "1484933866": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "testing windows installation"
   }
 }
