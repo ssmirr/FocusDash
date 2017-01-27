@@ -76,5 +76,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "testing windows installation"
+  },
+  "1485486649": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
